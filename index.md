@@ -16,6 +16,6 @@ The extension only requests necessary permissions to access the trade page and d
 
 ## Contact
 
-If you have any questions about this privacy policy, please contact the developer via the GitHub repository.
+If you have any questions about this privacy policy, please contact the developer via **cjdahrl@gmail.com**
 
 _Last updated: April 15, 2025_
